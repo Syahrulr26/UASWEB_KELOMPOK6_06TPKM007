@@ -41,7 +41,7 @@ Hasil Konstribusi Pembuatan Aplikasi Vaksinasi Covid 19 :
 2. Membuat simpan data
 3. Membuat Koneksi
 
-HAIL TAMPILAN :
+HASIL TAMPILAN :
 ![tampilan data](https://user-images.githubusercontent.com/102226851/178001828-cc2959d5-a72d-4f80-9f84-628289c0eadf.png)
 ![hapus](https://user-images.githubusercontent.com/102226851/178001844-b8fd289e-c0c9-466d-829f-b6c491f21421.png)
 ![cetak](https://user-images.githubusercontent.com/102226851/178001862-180bbf30-f27c-4cdd-89b3-d58e6ca906fe.png)
